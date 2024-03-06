@@ -234,6 +234,7 @@
     {
       "name": "Ideal",
       "isActive": true,
+      "github": null,
       "description": "Ideal es un nuevo software contable que está pensado para contradores, facilitando su uso y disponibilidad para las empresas.",
       "highlights": [
         "Software escalable",
