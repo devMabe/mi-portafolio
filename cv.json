@@ -1,0 +1,245 @@
+{
+  "basics": {
+    "name": "Mateo Daniel Beltran Nuñez",
+    "label": "Desarrollador de software con +2 años de experiencia",
+    "image": "/me.webp",
+    "email": "danielbelnuz18@gmail.com",
+    "phone": "+57 3226085973",
+    "url": "",
+    "summary": "+2 años de experiencia como Desarrollador de aplicaciones Web. Actualmente trabajo como backend developer. Vivo en Santa marta, Colombia.",
+    "location": {
+      "address": "mz g cas 2 apt 202",
+      "postalCode": "470003",
+      "city": "Santa marta",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mateobelnuz21",
+        "url": "www.linkedin.com/in/mateobelnuz21"
+      },
+      {
+        "network": "X",
+        "username": "MateoBe49323669",
+        "url": "https://twitter.com/MateoBe49323669"
+      },
+      {
+        "network": "GitHub",
+        "username": "mabenuz0521",
+        "url": "https://github.com/mabenuz0521"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Asesorias Enterprises",
+      "position": "Backend Developer",
+      "url": "https://accountingfe.vercel.app/auth/jwt/login",
+      "startDate": "2023-12-02",
+      "endDate": null,
+      "summary": "Durante los últimos dieciocho meses, he estado inmerso en el desarrollo y mantenimiento del backend de un software contable de gran envergadura. Mi rol principal ha sido diseñar e implementar microservicios que respalden las funciones críticas del sistema, asegurando que la arquitectura sea tanto limpia como escalable. Me he enfocado en garantizar la disponibilidad y eficiencia de las APIs, lo que ha sido fundamental para que nuestros usuarios puedan acceder y manipular datos contables de manera fluida y segura. Mi experiencia se centra en optimizar el rendimiento y la confiabilidad del sistema, lo que ha contribuido significativamente a la estabilidad y el éxito continuo del software contable.",
+      "highlights": [
+        "Lideré la creación y desarrollo de los microservicios de la empresa.",
+        "Implementé arquitecturas limpias para garantizar la escalabilidad y mantenibilidad del sistema.",
+        "Proporcioné soporte técnico para garantizar la disponibilidad continua de los servicios."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institución universitaria Americana",
+      "url": "https://americana.edu.co/barranquilla/",
+      "area": "Técnico profesional en programación de computadores",
+      "studyType": "Bachelor",
+      "startDate": "2019-06-01",
+      "endDate": "2021-06-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Mongodb",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos",
+        "NOSQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Nestjs",
+      "level": "Avanzado",
+      "keywords": ["Backend", "Desarrollo Web", "Api rest"]
+    },
+    {
+      "name": "Springboot",
+      "level": "Intermedio",
+      "keywords": ["Java", "Backend", "Api rest"]
+    },
+    {
+      "name": "Graphql",
+      "level": "Avanzado",
+      "keywords": ["Graphql", "Desarrollo Web"]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ideal",
+      "isActive": true,
+      "description": "Ideal es un nuevo software contable que está pensado para contradores, facilitando su uso y disponibilidad para las empresas.",
+      "highlights": [
+        "Software escalable",
+        "En desarrollo"
+      ],
+      "url": "https://accountingfe.vercel.app/auth/jwt/login"
+    }
+  ]
+}
