@@ -206,6 +206,11 @@
       "name": "Laravel",
       "level": "Intermedio",
       "keywords": ["Desarrollo Web"]
+    },
+    {
+      "name" : ".Net - C#",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Desarrollo backend"]
     }
   ],
   "languages": [
@@ -235,7 +240,7 @@
       "name": "Ideal",
       "isActive": true,
       "github": null,
-      "description": "Ideal es un nuevo software contable que está pensado para contradores, facilitando su uso y disponibilidad para las empresas.",
+      "description": "Ideal es un software contable diseñado para facilitar la gestión financiera de las empresas, proporcionando una interfaz intuitiva y herramientas avanzadas que simplifican las tareas contables diarias. Pensado específicamente para satisfacer las necesidades de contadores y gerentes, Ideal ofrece una solución integral que optimiza los procesos contables, mejora la precisión de los datos y permite una toma de decisiones informada y eficiente.",
       "highlights": [
         "Software escalable",
         "En desarrollo"
